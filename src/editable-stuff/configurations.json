@@ -1,0 +1,54 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Ivan",
+  "MiddleName": "",
+  "LastName": "Mejico",
+  "devDesc": "| Engineer | Programmer | Web Developer",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/IvanMejico",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/ivansottomejico",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/ivansottomejico21/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/ivan-mejico-585b2a169/",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-twitter",
+      "url": "https://www.twitter.com/ivanmejico/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "ivansottomejico21",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "I am a fresh Computer Engineering graduate focusing on Web Development as a career path. I'm also a Linux and open source enthusiast. My hobby is to tinker and build stuff with computers. I love reading Historical and Sci-Fi novels.",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "ivanmejico", 
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 10,
+  "showNavigationbar": true,
+  "showBlog": false
+}
